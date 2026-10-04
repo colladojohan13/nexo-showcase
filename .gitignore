@@ -1,0 +1,10 @@
+# This repository intentionally contains presentation documentation only.
+.env
+.env.*
+node_modules/
+*.db
+*.sqlite*
+*.pem
+*.key
+.DS_Store
+Thumbs.db
